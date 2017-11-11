@@ -1,0 +1,3 @@
+[submodule "Assets/G-Audio"]
+	path = Assets/G-Audio
+	url = https://github.com/r618/G-Audio.git
