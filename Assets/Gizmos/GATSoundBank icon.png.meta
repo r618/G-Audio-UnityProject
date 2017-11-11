@@ -1,7 +1,5 @@
 fileFormatVersion: 2
-guid: 624a87989712d1146bd26c890686a045
-timeCreated: 1510373495
-licenseType: Free
+guid: 6f62dd014dd2d47fe9a01f4fcbf039cd
 TextureImporter:
   fileIDToRecycleName: {}
   serializedVersion: 2
@@ -27,7 +25,7 @@ TextureImporter:
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 2048
+  maxTextureSize: 1024
   textureSettings:
     filterMode: -1
     aniso: -1
